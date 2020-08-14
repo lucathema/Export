@@ -1,0 +1,192 @@
+2020-08-12 08:30:50.7205|INFO|Prova.SshConnection|
+
+//////////////////////////////
+LOG DATE: Wed Aug 12 06:30:47 UTC 2020
+Arguments mode. Args:
+  -  PL0001.jpg
+
+File PL0001.jpg
+06:30:47    File PL0001.jpg to copy
+06:30:47      File PL0001.jpg copied
+06:30:47    File PL0001.jpg to add to aste
+
+2020-08-12 08:32:33.5442|INFO|Prova.SshConnection|
+
+//////////////////////////////
+LOG DATE: Wed Aug 12 06:32:30 UTC 2020
+Arguments mode. Args:
+  -  PL0002.jpg
+
+File PL0002.jpg
+06:32:30    File PL0002.jpg to copy
+
+2020-08-12 08:49:59.3180|INFO|Prova.SshConnection|Start copy of files
+Inizio lettura file:
+
+
+//////////////////////////////
+LOG DATE: Wed Aug 12 06:49:51 UTC 2020
+Arguments mode. Args:
+  -  IGV4.03C.obj
+  -  IGV4.03C_ADX.obj
+  -  IGV4.03C_ASX.obj
+  -  IGV4.03C_CDX.obj
+  -  IGV4.03C_CSX.obj
+  -  IGV4.03C_LDX.obj
+  -  IGV4.03C_LSX.obj
+  -  IGV4.03C_AMDX.obj
+  -  IGV4.03C_AMPDX.obj
+  -  IGV4.03C_AMPSX.obj
+  -  IGV4.03C_AMSX.obj
+  -  IGV4.03C_CMDX.obj
+  -  IGV4.03C_CMSX.obj
+
+File IGV4.03C.obj
+06:49:51  The file exists
+06:49:52  Copied to /home/worker/tmp_files/
+06:49:52  Copied respective png file to /home/worker/3d_models_sync/
+
+File IGV4.03C_ADX.obj
+06:49:52  The file exists
+06:49:52  Copied to /home/worker/tmp_files/
+
+File IGV4.03C_ASX.obj
+06:49:52  The file exists
+06:49:53  Copied to /home/worker/tmp_files/
+
+File IGV4.03C_CDX.obj
+06:49:53  The file exists
+06:49:53  Copied to /home/worker/tmp_files/
+
+File IGV4.03C_CSX.obj
+06:49:53  The file exists
+06:49:53  Copied to /home/worker/tmp_files/
+
+File IGV4.03C_LDX.obj
+06:49:53  The file does not exist
+
+File IGV4.03C_LSX.obj
+06:49:54  The file does not exist
+
+File IGV4.03C_AMDX.obj
+06:49:54  The file exists
+06:49:54  Copied to /home/worker/tmp_files/
+
+File IGV4.03C_AMPDX.obj
+06:49:54  The file exists
+06:49:54  Copied to /home/worker/tmp_files/
+
+File IGV4.03C_AMPSX.obj
+06:49:54  The file exists
+06:49:54  Copied to /home/worker/tmp_files/
+
+File IGV4.03C_AMSX.obj
+06:49:54  The file exists
+06:49:54  Copied to /home/worker/tmp_files/
+
+File IGV4.03C_CMDX.obj
+06:49:54  The file exists
+06:49:54  Copied to /home/worker/tmp_files/
+
+File IGV4.03C_CMSX.obj
+06:49:54  The file exists
+06:49:54  Copied to /home/worker/tmp_files/
+
+06:49:54  files copied, start obj conversion...
+06:49:54    DRACO file: IGV4_03C.obj
+06:49:54    DRACO file: IGV4_03C_CDX.obj
+06:49:54    DRACO file: IGV4_03C_AMPDX.obj
+06:49:54    DRACO file: IGV4_03C_AMSX.obj
+06:49:54    DRACO file: IGV4_03C_AMPSX.obj
+06:49:54    DRACO file: IGV4_03C_CSX.obj
+06:49:54    DRACO file: IGV4_03C_ADX.obj
+06:49:54    DRACO file: IGV4_03C_ASX.obj
+06:49:54    DRACO file: IGV4_03C_CMDX.obj
+06:49:54    DRACO file: IGV4_03C_CMSX.obj
+06:49:54    DRACO file: IGV4_03C_AMDX.obj
+06:49:54  File convertiti e salvati in /home/worker/3d_models_sync/
+---------------------------------------------------------------------------------------------------
+06:49:54  Copia immagini anteprima ...
+06:49:54  Immagini copiate
+---------------------------------------------------------------------------------------------------
+06:49:54  Rinomino files IGV4_ nella cartella /home/worker/3d_models_sync/ .....
+06:49:54  Inizio sincronizzazione da cartella /home/worker/3d_models_sync/ a Online Server
+sending incremental file list
+IGV4.03C.drc
+IGV4.03C.png
+IGV4.03C_ADX.drc
+IGV4.03C_AMDX.drc
+IGV4.03C_AMPDX.drc
+IGV4.03C_AMPSX.drc
+IGV4.03C_AMSX.drc
+IGV4.03C_ASX.drc
+IGV4.03C_CDX.drc
+IGV4.03C_CMDX.drc
+IGV4.03C_CMSX.drc
+IGV4.03C_CSX.drc
+
+sent 54,565 bytes  received 1,342 bytes  37,271.33 bytes/sec
+total size is 59,682,166  speedup is 1,067.53
+Building synchronization state...
+Starting synchronization...
+Copying file:///home/worker/3d_models_sync/IGV4.03C.drc [Content-Type=application/octet-stream]...
+Copying file:///home/worker/3d_models_sync/IGV4.03C.png [Content-Type=image/png]...
+/ [0 files][    0.0 B/ 25.1 KiB]                                                / [0 files][    0.0 B/ 30.6 KiB]                                                Copying file:///home/worker/3d_models_sync/IGV4.03C_ADX.drc [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/ 40.9 KiB]                                                Copying file:///home/worker/3d_models_sync/IGV4.03C_AMPSX.drc [Content-Type=application/octet-stream]...
+Copying file:///home/worker/3d_models_sync/IGV4.03C_AMDX.drc [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/ 53.6 KiB]                                                Copying file:///home/worker/3d_models_sync/IGV4.03C_CDX.drc [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/ 57.8 KiB]                                                / [0 files][    0.0 B/ 62.1 KiB]                                                Copying file:///home/worker/3d_models_sync/IGV4.03C_AMSX.drc [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/ 66.3 KiB]                                                Copying file:///home/worker/3d_models_sync/IGV4.03C_CMSX.drc [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/ 79.9 KiB]                                                Copying file:///home/worker/3d_models_sync/IGV4.03C_CMDX.drc [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/ 93.4 KiB]                                                Copying file:///home/worker/3d_models_sync/IGV4.03C_AMPDX.drc [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/105.9 KiB]                                                Copying file:///home/worker/3d_models_sync/IGV4.03C_ASX.drc [Content-Type=application/octet-stream]...
+/ [0 files][    0.0 B/116.4 KiB]                                                Copying file:///home/worker/3d_models_sync/IGV4.03C_CSX.drc [Content-Type=application/octet-stream]...
+/ [0/12 files][116.4 KiB/120.7 KiB]  96% Done                                   / [1/12 files][116.4 KiB/120.7 KiB]  96% Done                                   / [2/12 files][120.7 KiB/120.7 KiB]  99% Done                                   / [3/12 files][120.7 KiB/120.7 KiB]  99% Done                                   / [4/12 files][120.7 KiB/120.7 KiB]  99% Done                                   / [5/12 files][120.7 KiB/120.7 KiB]  99% Done                                   / [6/12 files][120.7 KiB/120.7 KiB]  99% Done                                   / [7/12 files][120.7 KiB/120.7 KiB]  99% Done                                   / [8/12 files][120.7 KiB/120.7 KiB]  99% Done                                   / [9/12 files][120.7 KiB/120.7 KiB]  99% Done                                   / [10/12 files][120.7 KiB/120.7 KiB]  99% Done                                  / [11/12 files][120.7 KiB/120.7 KiB]  99% Done                                  / [12/12 files][120.7 KiB/120.7 KiB] 100% Done                                  
+Operation completed over 12 objects/120.7 KiB.                                   
+06:49:59  3D models and preview syncronized
+
+2020-08-12 08:55:38.8846|INFO|Prova.SshConnection|
+
+//////////////////////////////
+LOG DATE: Wed Aug 12 06:55:29 UTC 2020
+Arguments mode. Args:
+  -  PL0002.jpg
+
+File PL0002.jpg
+06:55:29    File PL0002.jpg to copy
+06:55:29      File PL0002.jpg copied
+06:55:29    File PL0002.jpg to add to aste
+06:55:29      File PL0002.jpg added
+06:55:29  Creando array di appoggio
+06:55:29  Controllo incrociato immagine strati di colori
+06:55:29    File PL0002.jpg to process
+06:55:29      File PL0002.jpg processed
+
+06:55:29  Starting sync for dir to thema-optical.com
+
+sending incremental file list
+aste/PL0002.jpg
+frontali/PL0002.jpg
+frontali/no_preview/PL0002.jpg
+
+sent 84,103 bytes  received 116 bytes  56,146.00 bytes/sec
+total size is 77,796,625  speedup is 923.74
+Building synchronization state...
+Starting synchronization...
+Copying file:///mnt/UFFICIO_MARKETING/18_Tavolette/sync_tavolette/aste/PL0002.jpg [Content-Type=image/jpeg]...
+/ [0 files][    0.0 B/  673.0 B]                                                -- [1 files][  673.0 B/  673.0 B]                                                Copying file:///mnt/UFFICIO_MARKETING/18_Tavolette/sync_tavolette/frontali/PL0002.jpg [Content-Type=image/jpeg]...
+- [1 files][  673.0 B/  1.3 KiB]                                                \Copying file:///mnt/UFFICIO_MARKETING/18_Tavolette/sync_tavolette/frontali/no_preview/PL0002.jpg [Content-Type=image/jpeg]...
+\ [1/3 files][  1.3 KiB/  2.5 KiB]  53% Done                                    \ [2/3 files][  2.5 KiB/  2.5 KiB]  99% Done                                    \ [3/3 files][  2.5 KiB/  2.5 KiB] 100% Done                                    
+Operation completed over 3 objects/2.5 KiB.                                      
+
+06:55:38  Acetate images synchronized
+
+2020-08-12 17:05:52.3627|INFO|Prova.SshConnection|
+2020-08-12 17:06:02.0973|INFO|Prova.SshConnection|
+2020-08-12 17:06:48.3370|INFO|Prova.SshConnection|
+2020-08-12 17:06:51.7391|INFO|Prova.SshConnection|
+2020-08-12 17:07:10.7534|INFO|Prova.SshConnection|
+2020-08-12 17:07:28.5629|INFO|Prova.SshConnection|
+2020-08-12 17:24:56.3115|INFO|Prova.SshConnection|
+2020-08-12 17:25:09.5048|INFO|Prova.SshConnection|
+2020-08-12 17:25:39.8038|INFO|Prova.SshConnection|

@@ -1,0 +1,33 @@
+2020-08-10 17:24:21.9078|INFO|Prova.SshConnection|SONO QUI
+2020-08-10 17:27:29.9743|INFO|Prova.SshConnection|
+
+//////////////////////////////
+LOG DATE: Mon Aug 10 15:24:48 UTC 2020
+15:24:48  Start photos
+15:24:48  Cerco file modificati nelle ultime 24h e li ri-esporto
+15:25:12  Esportato file modificati, esporto nuovi file
+
+15:26:19  End photos
+
+15:26:19  Start thumbs
+
+15:26:38  End thumbs
+
+15:26:38  Start transferring files
+sending incremental file list
+
+sent 1,825,432 bytes  received 13 bytes  1,216,963.33 bytes/sec
+total size is 1,104,994,066  speedup is 605.33
+Building synchronization state...
+At source listing 10000...
+At source listing 20000...
+At source listing 30000...
+At source listing 40000...
+At destination listing 10000...
+At destination listing 20000...
+At destination listing 30000...
+At destination listing 40000...
+Starting synchronization...
+
+15:27:29  End transferring files
+

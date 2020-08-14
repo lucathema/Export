@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+	UTILIZZO - Esempio con tutte le funzionalità
+	
+	<toupdate>    												-> Il programma cerca nel documento questo tag per configurare i tab
+		<prova1>     											-> Cosa vogliamo aggiornare? [NOME]
+			<script>./ilmioscript.sh</script>    				-> nome dello script (pwd=/home/worker/)
+			<commandlinearguments>true<commandlinearguments>   	-> se impostato a true, lo script prenderà in input dei nomi, altrimenti no
+			<source>/mnt/...</source>    						-> Percorso in cui vogliamo che l'utente scelga i file da dare in pasto allo script (verranno poi cercati in \\xnfs\thema\... )
+			<endswith>              							-> lista dei possibili modi in cui devono finire i file da dare in input allo script
+				<name>.jpg</name>
+				<name>_b.jpg</name>
+			</endswith>
+			<notendswith>           							-> lista dei modi in cui non devono finire i file da dare in input allo script
+				<name>_c.jpg</name>
+				<name>asd.jpg</name>
+			</notendswith>
+			<searchrecursively>true</searchrecursively>   		-> i file devono essere ricercati ricorsivamente all'interno della cartella scelta dall'utente?
+		</prova1>
+	</toupdate>
+
+-->
+
+<toupdate>
+	
+</toupdate>

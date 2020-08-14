@@ -1,0 +1,13 @@
+C:\Users\ldemenego\Documents\Visual Studio 2015\Projects\Prova\Prova\bin\Release\Prova.exe.config
+C:\Users\ldemenego\Documents\Visual Studio 2015\Projects\Prova\Prova\bin\Release\Prova.exe
+C:\Users\ldemenego\Documents\Visual Studio 2015\Projects\Prova\Prova\bin\Release\Prova.pdb
+C:\Users\ldemenego\Documents\Visual Studio 2015\Projects\Prova\Prova\bin\Release\NLog.dll
+C:\Users\ldemenego\Documents\Visual Studio 2015\Projects\Prova\Prova\bin\Release\Renci.SshNet.dll
+C:\Users\ldemenego\Documents\Visual Studio 2015\Projects\Prova\Prova\bin\Release\NLog.xml
+C:\Users\ldemenego\Documents\Visual Studio 2015\Projects\Prova\Prova\bin\Release\Renci.SshNet.xml
+C:\Users\ldemenego\Documents\Visual Studio 2015\Projects\Prova\Prova\obj\Release\Prova.CommandLog.resources
+C:\Users\ldemenego\Documents\Visual Studio 2015\Projects\Prova\Prova\obj\Release\Prova.Form1.resources
+C:\Users\ldemenego\Documents\Visual Studio 2015\Projects\Prova\Prova\obj\Release\Prova.Properties.Resources.resources
+C:\Users\ldemenego\Documents\Visual Studio 2015\Projects\Prova\Prova\obj\Release\Prova.csproj.GenerateResource.Cache
+C:\Users\ldemenego\Documents\Visual Studio 2015\Projects\Prova\Prova\obj\Release\Prova.exe
+C:\Users\ldemenego\Documents\Visual Studio 2015\Projects\Prova\Prova\obj\Release\Prova.pdb
